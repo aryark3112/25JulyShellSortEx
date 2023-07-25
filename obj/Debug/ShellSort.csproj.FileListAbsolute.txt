@@ -1,0 +1,8 @@
+D:\25July\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+D:\25July\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+D:\25July\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+D:\25July\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.AssemblyReference.cache
+D:\25July\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.SuggestedBindingRedirects.cache
+D:\25July\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+D:\25July\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+D:\25July\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
